@@ -1,0 +1,8 @@
+.pio
+.vscode
+.venv
+venv
+build
+__pycache__
+*.hex
+*.bin
